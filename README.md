@@ -25,7 +25,7 @@ https://github.com/coaticoaticoati/postapp
     
 https://xs489274.xsrv.jp/
   
-#### ✨デモアカウント
+#### ✨デモアカウント（ログインするために使用してください）  
     
 メールアドレス：1@test  
 パスワード：test1234
