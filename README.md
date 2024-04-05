@@ -1,40 +1,36 @@
-## ✨ポートフォリオ✨
+# 🦭ポートフォリオ🦭
   
-### 郵便番号から住所を検索できるアプリ「PostalCodeSearch」  
+## 郵便番号から住所を検索できるアプリ「PostalCodeSearch」  
   
-#### ⚡URL     
+#### ✨URL     
 https://ss1.xrea.com/coaticoaticoati95142.s239.xrea.com/postalcodesearch/  
 
-#### ⚡GitHub  
+#### ✨GitHub  
 https://github.com/coaticoaticoati/PostalCodeSearch
 
-
-
-### X（旧Twitter）のような文章や写真を投稿できるアプリ「postapp」
-#### ⚡URL       
+## X（旧Twitter）のような文章や写真を投稿できるアプリ「postapp」
+#### ✨URL       
 https://ss1.xrea.com/coaticoaticoati95142.s239.xrea.com/postapp/
   
-#### ⚡デモアカウント（ログインするために使用してください）     
+#### ✨デモアカウント（ログインするために使用してください）     
 メールアドレス：a@test  
 パスワード：Test1234
   
-#### ⚡GitHub
+#### ✨GitHub
 https://github.com/coaticoaticoati/postapp
   
+## 習慣化をサポートするアプリ「HabiHabit」
   
-  
-### 習慣化をサポートするアプリ「HabiHabit」
-  
-#### ⚡URL 
+#### ✨URL 
     
 https://xs489274.xsrv.jp/
   
-#### ⚡デモアカウント
+#### ✨デモアカウント
     
 メールアドレス：1@test  
 パスワード：test1234
   
-#### ⚡GitHub
+#### ✨GitHub
   
 https://github.com/coaticoaticoati/HabiHabit
 
